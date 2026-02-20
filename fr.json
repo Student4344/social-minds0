@@ -1,0 +1,62 @@
+{
+  "app_name": "Social Bloom",
+  "disclaimer": "Cette application ne remplace pas une thérapie professionnelle. En cas de crise, veuillez contacter les services d'urgence.",
+  "nav": {
+    "home": "Accueil",
+    "chat": "Chat",
+    "breathe": "Exercices",
+    "mood": "Humeur",
+    "learn": "Apprendre"
+  },
+  "home": {
+    "greeting": "Comment vous sentez-vous aujourd'hui ?",
+    "mood_check": "Faites le point",
+    "quick_actions": "Actions Rapides",
+    "streak": "Jours consécutifs",
+    "xp": "XP",
+    "level": "Niveau",
+    "breathe_title": "Exercices",
+    "breathe_desc": "Calmez votre système nerveux",
+    "chat_title": "Parler à l'IA",
+    "chat_desc": "Partagez ce qui vous préoccupe",
+    "mood_title": "Suivi d'Humeur",
+    "mood_desc": "Notez comment vous vous sentez",
+    "learn_title": "Apprendre",
+    "learn_desc": "Mini-leçons santé mentale"
+  },
+  "breathe": {
+    "title": "Exercices",
+    "subtitle": "Techniques pour calmer votre esprit et votre corps",
+    "inhale": "Inspirez",
+    "hold": "Retenez",
+    "exhale": "Expirez",
+    "rest": "Repos",
+    "start": "Commencer",
+    "stop": "Arrêter",
+    "cycles": "Cycles terminés"
+  },
+  "chat": {
+    "title": "Social Bloom IA",
+    "subtitle": "Votre compagnon bienveillant",
+    "placeholder": "Partagez ce qui vous préoccupe...",
+    "send": "Envoyer",
+    "welcome": "Bonjour ! 💛 Je suis là pour vous écouter et vous soutenir. N'oubliez pas, je suis un compagnon IA — pas un thérapeute. Comment vous sentez-vous aujourd'hui ?"
+  },
+  "mood": {
+    "title": "Suivi d'Humeur",
+    "subtitle": "Suivez votre parcours émotionnel",
+    "today": "Humeur du Jour",
+    "history": "Cette Semaine",
+    "save": "Sauvegarder",
+    "labels": ["Horrible", "Mal", "Bof", "Ça va", "Bien", "Très bien", "Incroyable"]
+  },
+  "crisis": {
+    "title": "Vous N'êtes Pas Seul(e)",
+    "message": "Si vous ou quelqu'un que vous connaissez est en crise, contactez :",
+    "hotlines": {
+      "international": "International : 112",
+      "us": "US : 988 Ligne de Crise",
+      "uk": "UK : 116 123 (Samaritans)"
+    }
+  }
+}

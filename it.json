@@ -1,0 +1,62 @@
+{
+  "app_name": "Social Bloom",
+  "disclaimer": "Questa app non sostituisce la terapia professionale. In caso di crisi, contattare i servizi di emergenza.",
+  "nav": {
+    "home": "Home",
+    "chat": "Chat",
+    "breathe": "Esercizi",
+    "mood": "Umore",
+    "learn": "Impara"
+  },
+  "home": {
+    "greeting": "Come ti senti oggi?",
+    "mood_check": "Fai un check-in",
+    "quick_actions": "Azioni Rapide",
+    "streak": "Giorni consecutivi",
+    "xp": "XP",
+    "level": "Livello",
+    "breathe_title": "Esercizi",
+    "breathe_desc": "Calma il tuo sistema nervoso",
+    "chat_title": "Parla con l'IA",
+    "chat_desc": "Condividi ciò che hai in mente",
+    "mood_title": "Traccia Umore",
+    "mood_desc": "Registra come ti senti",
+    "learn_title": "Impara",
+    "learn_desc": "Mini-lezioni sulla salute mentale"
+  },
+  "breathe": {
+    "title": "Esercizi",
+    "subtitle": "Tecniche per calmare mente e corpo",
+    "inhale": "Inspira",
+    "hold": "Trattieni",
+    "exhale": "Espira",
+    "rest": "Riposa",
+    "start": "Inizia",
+    "stop": "Ferma",
+    "cycles": "Cicli completati"
+  },
+  "chat": {
+    "title": "Social Bloom IA",
+    "subtitle": "Il tuo compagno di supporto",
+    "placeholder": "Condividi ciò che hai in mente...",
+    "send": "Invia",
+    "welcome": "Ciao! 💛 Sono qui per ascoltarti e supportarti. Ricorda, sono un compagno IA — non un terapeuta. Come ti senti oggi?"
+  },
+  "mood": {
+    "title": "Tracciamento Umore",
+    "subtitle": "Segui il tuo percorso emotivo",
+    "today": "Umore di Oggi",
+    "history": "Questa Settimana",
+    "save": "Salva",
+    "labels": ["Terribile", "Male", "Così così", "OK", "Bene", "Molto bene", "Fantastico"]
+  },
+  "crisis": {
+    "title": "Non Sei Solo/a",
+    "message": "Se tu o qualcuno che conosci è in crisi, contatta:",
+    "hotlines": {
+      "international": "Internazionale: 112",
+      "us": "US: 988 Linea di Crisi",
+      "uk": "UK: 116 123 (Samaritans)"
+    }
+  }
+}

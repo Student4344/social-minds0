@@ -1,0 +1,62 @@
+{
+  "app_name": "Social Bloom",
+  "disclaimer": "Ky aplikacion nuk zëvendëson terapinë profesionale. Nëse jeni në krizë, ju lutem kontaktoni shërbimet e urgjencës.",
+  "nav": {
+    "home": "Kryefaqja",
+    "chat": "Biseda",
+    "breathe": "Ushtrime",
+    "mood": "Humori",
+    "learn": "Mëso"
+  },
+  "home": {
+    "greeting": "Si ndiheni sot?",
+    "mood_check": "Kontrolloni veten",
+    "quick_actions": "Veprime të Shpejta",
+    "streak": "Ditë rresht",
+    "xp": "XP",
+    "level": "Niveli",
+    "breathe_title": "Ushtrime",
+    "breathe_desc": "Teknika për mendjen dhe trupin",
+    "chat_title": "Bisedo me AI",
+    "chat_desc": "Ndani atë që keni në mendje",
+    "mood_title": "Gjurmoni Humorin",
+    "mood_desc": "Regjistroni si ndiheni",
+    "learn_title": "Mëso",
+    "learn_desc": "Mini-mësime për shëndetin mendor"
+  },
+  "breathe": {
+    "title": "Ushtrime",
+    "subtitle": "Teknika për të qetësuar mendjen dhe trupin",
+    "inhale": "Merr Frymë",
+    "hold": "Mbaj",
+    "exhale": "Nxirr Frymën",
+    "rest": "Pusho",
+    "start": "Fillo",
+    "stop": "Ndalo",
+    "cycles": "Cikle të përfunduara"
+  },
+  "chat": {
+    "title": "Social Bloom AI",
+    "subtitle": "Shoqëruesi juaj mbështetës",
+    "placeholder": "Ndani atë që keni në mendje...",
+    "send": "Dërgo",
+    "welcome": "Përshëndetje! 💛 Jam këtu për t'ju dëgjuar dhe mbështetur. Mos harroni, unë jam një shoqërues AI — jo terapeut. Si ndiheni sot?"
+  },
+  "mood": {
+    "title": "Gjurmues Humori",
+    "subtitle": "Gjurmoni udhëtimin tuaj emocional",
+    "today": "Humori i Sotëm",
+    "history": "Kjo Javë",
+    "save": "Ruaj",
+    "labels": ["Keq", "Jo mirë", "Meh", "Në rregull", "Mirë", "Shumë mirë", "Shkëlqyeshëm"]
+  },
+  "crisis": {
+    "title": "Nuk Jeni Vetëm",
+    "message": "Nëse ju ose dikush që njihni është në krizë, ju lutem kontaktoni:",
+    "hotlines": {
+      "international": "Ndërkombëtar: 112",
+      "us": "SHBA: 988 Linja e Krizës",
+      "uk": "MB: 116 123 (Samaritans)"
+    }
+  }
+}

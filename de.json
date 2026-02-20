@@ -1,0 +1,62 @@
+{
+  "app_name": "Social Bloom",
+  "disclaimer": "Diese App ersetzt keine professionelle Therapie. Im Notfall wenden Sie sich an die Rettungsdienste.",
+  "nav": {
+    "home": "Start",
+    "chat": "Chat",
+    "breathe": "Übungen",
+    "mood": "Stimmung",
+    "learn": "Lernen"
+  },
+  "home": {
+    "greeting": "Wie fühlen Sie sich heute?",
+    "mood_check": "Check-in mit sich selbst",
+    "quick_actions": "Schnellaktionen",
+    "streak": "Tage in Folge",
+    "xp": "XP",
+    "level": "Level",
+    "breathe_title": "Übungen",
+    "breathe_desc": "Beruhigen Sie Ihr Nervensystem",
+    "chat_title": "Mit KI sprechen",
+    "chat_desc": "Teilen Sie Ihre Gedanken",
+    "mood_title": "Stimmung erfassen",
+    "mood_desc": "Erfassen Sie Ihre Gefühle",
+    "learn_title": "Lernen",
+    "learn_desc": "Mini-Lektionen zur psychischen Gesundheit"
+  },
+  "breathe": {
+    "title": "Übungen",
+    "subtitle": "Techniken zur Beruhigung von Geist und Körper",
+    "inhale": "Einatmen",
+    "hold": "Halten",
+    "exhale": "Ausatmen",
+    "rest": "Ruhe",
+    "start": "Start",
+    "stop": "Stopp",
+    "cycles": "Zyklen abgeschlossen"
+  },
+  "chat": {
+    "title": "Social Bloom KI",
+    "subtitle": "Ihr unterstützender Begleiter",
+    "placeholder": "Teilen Sie Ihre Gedanken...",
+    "send": "Senden",
+    "welcome": "Hallo! 💛 Ich bin hier, um Ihnen zuzuhören und Sie zu unterstützen. Denken Sie daran, ich bin ein KI-Begleiter — kein Therapeut. Wie fühlen Sie sich heute?"
+  },
+  "mood": {
+    "title": "Stimmungstracker",
+    "subtitle": "Verfolgen Sie Ihre emotionale Reise",
+    "today": "Heutige Stimmung",
+    "history": "Diese Woche",
+    "save": "Speichern",
+    "labels": ["Schrecklich", "Schlecht", "Naja", "OK", "Gut", "Sehr gut", "Fantastisch"]
+  },
+  "crisis": {
+    "title": "Sie Sind Nicht Allein",
+    "message": "Wenn Sie oder jemand, den Sie kennen, in einer Krise ist, wenden Sie sich an:",
+    "hotlines": {
+      "international": "International: 112",
+      "us": "US: 988 Krisenhotline",
+      "uk": "UK: 116 123 (Samaritans)"
+    }
+  }
+}

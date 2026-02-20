@@ -1,0 +1,62 @@
+{
+  "app_name": "Social Bloom",
+  "disclaimer": "This app is not a substitute for professional therapy. If you're in crisis, please contact emergency services.",
+  "nav": {
+    "home": "Home",
+    "chat": "Chat",
+    "breathe": "Exercises",
+    "mood": "Mood",
+    "learn": "Learn"
+  },
+  "home": {
+    "greeting": "How are you feeling today?",
+    "mood_check": "Check in with yourself",
+    "quick_actions": "Quick Actions",
+    "streak": "Day Streak",
+    "xp": "XP",
+    "level": "Level",
+    "breathe_title": "Exercises",
+    "breathe_desc": "Mind & body techniques",
+    "chat_title": "Talk to AI",
+    "chat_desc": "Share what's on your mind",
+    "mood_title": "Track Mood",
+    "mood_desc": "Log how you feel",
+    "learn_title": "Learn",
+    "learn_desc": "Mental health mini-lessons"
+  },
+  "breathe": {
+    "title": "Exercises",
+    "subtitle": "Techniques to calm your mind and body",
+    "inhale": "Breathe In",
+    "hold": "Hold",
+    "exhale": "Breathe Out",
+    "rest": "Rest",
+    "start": "Start",
+    "stop": "Stop",
+    "cycles": "Cycles completed"
+  },
+  "chat": {
+    "title": "Social Bloom AI",
+    "subtitle": "Your supportive companion",
+    "placeholder": "Share what's on your mind...",
+    "send": "Send",
+    "welcome": "Hi there! 💛 I'm your Social Bloom companion. I'm here to listen and support you. Remember, I'm an AI — not a therapist. How are you feeling today?"
+  },
+  "mood": {
+    "title": "Mood Tracker",
+    "subtitle": "Track your emotional journey",
+    "today": "Today's Mood",
+    "history": "This Week",
+    "save": "Save",
+    "labels": ["Awful", "Bad", "Meh", "Okay", "Good", "Great", "Amazing"]
+  },
+  "crisis": {
+    "title": "You're Not Alone",
+    "message": "If you or someone you know is in crisis, please reach out:",
+    "hotlines": {
+      "international": "International: 112",
+      "us": "US: 988 Suicide & Crisis Lifeline",
+      "uk": "UK: 116 123 (Samaritans)"
+    }
+  }
+}
